@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodForestMVC", "FoodForestMVC\FoodForestMVC.csproj", "{C3CDD113-B4E8-4452-BDD3-B55AEBCD54F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3CDD113-B4E8-4452-BDD3-B55AEBCD54F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CDD113-B4E8-4452-BDD3-B55AEBCD54F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CDD113-B4E8-4452-BDD3-B55AEBCD54F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CDD113-B4E8-4452-BDD3-B55AEBCD54F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC5F5761-4AFA-49C9-A544-910715455EF1}
+	EndGlobalSection
+EndGlobal
